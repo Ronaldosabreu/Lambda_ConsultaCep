@@ -1,0 +1,14 @@
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\bin\Debug\net8.0\ConsultaCep.Domain.exe
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\bin\Debug\net8.0\ConsultaCep.Domain.deps.json
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\bin\Debug\net8.0\ConsultaCep.Domain.runtimeconfig.json
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\bin\Debug\net8.0\ConsultaCep.Domain.dll
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\bin\Debug\net8.0\ConsultaCep.Domain.pdb
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.AssemblyInfoInputs.cache
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.AssemblyInfo.cs
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.dll
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\refint\ConsultaCep.Domain.dll
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.pdb
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.genruntimeconfig.cache
+C:\Users\Ronaldo\source\repos\ConsultaCepLambda\ConsultaCep.Domain\obj\Debug\net8.0\ref\ConsultaCep.Domain.dll

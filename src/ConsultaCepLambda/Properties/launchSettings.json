@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "LambdaTestTool": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Ronaldo\\.dotnet\\tools\\dotnet-lambda-test-tool-8.0.exe",
+      "commandLineArgs": "--port 5050",
+      "workingDirectory": "$(ProjectDir)"
+    },
+    "ConsultaCepLambda": {
+      "commandName": "Project"
+    }
+  }
+}

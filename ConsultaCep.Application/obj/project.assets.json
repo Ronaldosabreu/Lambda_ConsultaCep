@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ConsultaCep.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ConsultaCep.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsultaCep.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsultaCep.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ConsultaCep.Domain/ConsultaCep.Domain.csproj",
+      "msbuildProject": "../ConsultaCep.Domain/ConsultaCep.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ConsultaCep.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ronaldo\\source\\repos\\ConsultaCepLambda\\ConsultaCep.Application\\ConsultaCep.Application.csproj",
+      "projectName": "ConsultaCep.Application",
+      "projectPath": "C:\\Users\\Ronaldo\\source\\repos\\ConsultaCepLambda\\ConsultaCep.Application\\ConsultaCep.Application.csproj",
+      "packagesPath": "C:\\Users\\Ronaldo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ronaldo\\source\\repos\\ConsultaCepLambda\\ConsultaCep.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ronaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Ronaldo\\source\\repos\\ConsultaCepLambda\\ConsultaCep.Domain\\ConsultaCep.Domain.csproj": {
+              "projectPath": "C:\\Users\\Ronaldo\\source\\repos\\ConsultaCepLambda\\ConsultaCep.Domain\\ConsultaCep.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
